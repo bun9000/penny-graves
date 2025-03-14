@@ -1,0 +1,13 @@
+{
+  "cssTheme": "ITS Theme",
+  "accentColor": "#eb85ff",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Inter,Lucida Sans Unicode,Georgia,Futura",
+  "monospaceFontFamily": "Cascadia Mono",
+  "baseFontSize": 18,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "linesize"
+  ]
+}

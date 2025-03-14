@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "9ec5404255c102e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a98a1c9dc0344e05",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ff059381d14bde58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/Entry 001 - The Warm Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Entry 001 - The Warm Welcome"
+            }
+          },
+          {
+            "id": "435a32d67296f031",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Penny Cupcakes, Private Eye.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Penny Cupcakes, Private Eye"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e625264559f1f6f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2b6d153f8b58466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a348a34edbc1e115",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1df71e92684ddfed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5bb8a2ffee7070a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e50c7441ef529347",
+    "type": "split",
+    "children": [
+      {
+        "id": "450798ff960ada6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c69e278b79b8bc06",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Case Files/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "26ab5019bc097d35",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Case Files/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "28aa99fac23f2cd7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b391bdf5fa76704f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Case Files/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "435a32d67296f031",
+  "lastOpenFiles": [
+    "Case Files/Case 000 - Template.md",
+    "Case Files/Case 001 - The Donut Shop Distortion.md",
+    "Intel/Businesses.md",
+    "Journal/Entry 001 - The Warm Welcome.md",
+    "Penny Cupcakes, Private Eye.md",
+    "Screenshots/Pasted image 20250308103954.png",
+    "Pasted image 20250308103954 1.png",
+    "Screenshots/Pasted image 20250308112827.png",
+    "Screenshots/Pasted image 20250308112819.png",
+    "Screenshots",
+    "Journal",
+    "Intel",
+    "Case Files/Untitled.md",
+    "Case Files/Untitled",
+    "Case Files"
+  ]
+}
